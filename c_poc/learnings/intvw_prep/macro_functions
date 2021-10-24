@@ -1,0 +1,8 @@
+https://aticleworld.com/c-macros/
+
+1. Object-like Macros in C
+    #define  MACRO_NAME  MACRO_VALUE/_EXPRESSION
+    
+2. Function like macro in C
+    #define  FUNC_NAME(ARGS)  MACRO_FUNC_BODY
+    
