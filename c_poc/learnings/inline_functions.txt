@@ -1,4 +1,0 @@
-#include<stdio.h>
-#include<conio.h>
-
-inline int addition(int a, int b)
